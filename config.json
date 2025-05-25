@@ -1,6 +1,6 @@
 {
     "invite": "server invite code / vanity",
-    "two_captcha_key": "your 2captcha api key",
+    "two_captcha_key": "3a65e1c568d7fdda4210216b8dfa8126",
     "captcha_retry_limit": 3,
     "join_delay_min": 2000,
     "join_delay_max": 3000,
@@ -8,6 +8,6 @@
         "enabled": false,
         "delay_min": 4000,
         "delay_max": 6000,
-        "server_id": ""
+        "server_id": "1376103637389938792"
     }
 }
